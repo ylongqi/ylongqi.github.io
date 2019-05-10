@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Longqi Yang</title>
+    <link>http://www.cs.cornell.edu/~ylongqi/home/</link>
+    <description>Recent content in Homes on Longqi Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.cs.cornell.edu/~ylongqi/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.cs.cornell.edu/~ylongqi/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ylongqi/home/about/</guid>
+      <description>I am a Ph.D. candidate in the Computer Science Department, Cornell University and Cornell Tech. I am very fortunate to be advised by Prof. Deborah Estrin, and be a member of the small data lab and the Connected Experiences lab (Cx lab).
+I am driven to build intelligent information systems (e.g., recommender systems, personal assistants, and their applications, from education to wellness) that address individual, commercial, and societal needs, and to understand limitations and real-world impacts of algorithmic suggestions.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.cs.cornell.edu/~ylongqi/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ylongqi/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://www.cs.cornell.edu/~ylongqi/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ylongqi/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://www.cs.cornell.edu/~ylongqi/home/teaching/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ylongqi/home/teaching/</guid>
+      <description>Teaching Assistant:
+ CS5785 Applied Machine Learning CS5300 The Architecture of Large-scale Information System CS5434 Defending Computer Networks  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.cs.cornell.edu/~ylongqi/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ylongqi/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
