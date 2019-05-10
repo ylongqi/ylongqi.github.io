@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Longqi Yang</title>
-    <link>http://ylongqi.com/publication_types/2/</link>
+    <link>https://ylongqi.com/publication_types/2/</link>
     <description>Recent content in 2 on Longqi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ylongqi.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ylongqi.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Characterizing User Skills from Application Usage Traces with Hierarchical Attention Recurrent Networks</title>
-      <link>http://ylongqi.com/publication/tist18/</link>
+      <link>https://ylongqi.com/publication/tist18/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/tist18/</guid>
+      <guid>https://ylongqi.com/publication/tist18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yum-me: A Personalized Nutrient-based Meal Recommender System</title>
-      <link>http://ylongqi.com/publication/tois17/</link>
+      <link>https://ylongqi.com/publication/tois17/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/tois17/</guid>
+      <guid>https://ylongqi.com/publication/tois17/</guid>
       <description></description>
     </item>
     

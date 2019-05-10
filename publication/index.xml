@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Longqi Yang</title>
-    <link>http://ylongqi.com/publication/</link>
+    <link>https://ylongqi.com/publication/</link>
     <description>Recent content in Publications on Longqi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://ylongqi.com/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ylongqi.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How Intention Informed Recommendations Modulate Choices: A Field Study of Spoken Word Content</title>
-      <link>http://ylongqi.com/publication/www19/</link>
+      <link>https://ylongqi.com/publication/www19/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/www19/</guid>
+      <guid>https://ylongqi.com/publication/www19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More than Just Words: Modeling Non-textual Characteristics of Podcasts</title>
-      <link>http://ylongqi.com/publication/wsdm19/</link>
+      <link>https://ylongqi.com/publication/wsdm19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/wsdm19/</guid>
+      <guid>https://ylongqi.com/publication/wsdm19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback</title>
-      <link>http://ylongqi.com/publication/recsys18a/</link>
+      <link>https://ylongqi.com/publication/recsys18a/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/recsys18a/</guid>
+      <guid>https://ylongqi.com/publication/recsys18a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding User Interactions with Podcast Recommendations Delivered Via Voice</title>
-      <link>http://ylongqi.com/publication/recsys18b/</link>
+      <link>https://ylongqi.com/publication/recsys18b/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/recsys18b/</guid>
+      <guid>https://ylongqi.com/publication/recsys18b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Recommendations Under User-Controlled Data Filtering</title>
-      <link>http://ylongqi.com/publication/recsys18c/</link>
+      <link>https://ylongqi.com/publication/recsys18c/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/recsys18c/</guid>
+      <guid>https://ylongqi.com/publication/recsys18c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing User Skills from Application Usage Traces with Hierarchical Attention Recurrent Networks</title>
-      <link>http://ylongqi.com/publication/tist18/</link>
+      <link>https://ylongqi.com/publication/tist18/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/tist18/</guid>
+      <guid>https://ylongqi.com/publication/tist18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms</title>
-      <link>http://ylongqi.com/publication/wsdm18/</link>
+      <link>https://ylongqi.com/publication/wsdm18/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/wsdm18/</guid>
+      <guid>https://ylongqi.com/publication/wsdm18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yum-me: A Personalized Nutrient-based Meal Recommender System</title>
-      <link>http://ylongqi.com/publication/tois17/</link>
+      <link>https://ylongqi.com/publication/tois17/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/tois17/</guid>
+      <guid>https://ylongqi.com/publication/tois17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalizing Software and Web Services by Integrating Unstructured Application Usage Traces</title>
-      <link>http://ylongqi.com/publication/www17a/</link>
+      <link>https://ylongqi.com/publication/www17a/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/www17a/</guid>
+      <guid>https://ylongqi.com/publication/www17a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Metric Learning</title>
-      <link>http://ylongqi.com/publication/www17b/</link>
+      <link>https://ylongqi.com/publication/www17b/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/www17b/</guid>
+      <guid>https://ylongqi.com/publication/www17b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immersive Recommendation: News and Event Recommendations Using Personal Digital Traces</title>
-      <link>http://ylongqi.com/publication/www16/</link>
+      <link>https://ylongqi.com/publication/www16/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/www16/</guid>
+      <guid>https://ylongqi.com/publication/www16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YADL: Your Activities of Daily Living</title>
-      <link>http://ylongqi.com/publication/pervasivehealth16/</link>
+      <link>https://ylongqi.com/publication/pervasivehealth16/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/pervasivehealth16/</guid>
+      <guid>https://ylongqi.com/publication/pervasivehealth16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GroupLink: Group Event Recommendations Using Personal Digital Traces</title>
-      <link>http://ylongqi.com/publication/cscw16/</link>
+      <link>https://ylongqi.com/publication/cscw16/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/cscw16/</guid>
+      <guid>https://ylongqi.com/publication/cscw16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface</title>
-      <link>http://ylongqi.com/publication/cikm15/</link>
+      <link>https://ylongqi.com/publication/cikm15/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/cikm15/</guid>
+      <guid>https://ylongqi.com/publication/cikm15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond Classification: Latent User Interests Profiling from Visual Contents Analysis</title>
-      <link>http://ylongqi.com/publication/icdmw15/</link>
+      <link>https://ylongqi.com/publication/icdmw15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/icdmw15/</guid>
+      <guid>https://ylongqi.com/publication/icdmw15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring Occupancy from Opportunistically Available Sensor Data</title>
-      <link>http://ylongqi.com/publication/percom14/</link>
+      <link>https://ylongqi.com/publication/percom14/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.com/publication/percom14/</guid>
+      <guid>https://ylongqi.com/publication/percom14/</guid>
       <description></description>
     </item>
     
