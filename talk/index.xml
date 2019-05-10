@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Longqi Yang</title>
-    <link>http://www.cs.cornell.edu/~ylongqi/talk/</link>
+    <link>http://ylongqi.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Longqi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://www.cs.cornell.edu/~ylongqi/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ylongqi.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding and Recommending Podcast Content</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/spotify18/</link>
+      <link>http://ylongqi.github.io/talk/spotify18/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/spotify18/</guid>
+      <guid>http://ylongqi.github.io/talk/spotify18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial: Modularizing Deep Neural Network-Inspired Recommendation Algorithms</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/recsys18/</link>
+      <link>http://ylongqi.github.io/talk/recsys18/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/recsys18/</guid>
+      <guid>http://ylongqi.github.io/talk/recsys18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harnessing and Customizing State-of-the-art Recommendation Solutions with OpenRec</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/strata18/</link>
+      <link>http://ylongqi.github.io/talk/strata18/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/strata18/</guid>
+      <guid>http://ylongqi.github.io/talk/strata18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommendations Beyond User-Item Interactions</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/yahoo18/</link>
+      <link>http://ylongqi.github.io/talk/yahoo18/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/yahoo18/</guid>
+      <guid>http://ylongqi.github.io/talk/yahoo18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/wsdm18/</link>
+      <link>http://ylongqi.github.io/talk/wsdm18/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/wsdm18/</guid>
+      <guid>http://ylongqi.github.io/talk/wsdm18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immersive Recommendation Workshop: Deep User and Content Modeling for Personalization</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/nycmedialab/</link>
+      <link>http://ylongqi.github.io/talk/nycmedialab/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/nycmedialab/</guid>
+      <guid>http://ylongqi.github.io/talk/nycmedialab/</guid>
       <description>Workshop slides</description>
     </item>
     
     <item>
       <title>Collaborative Metric Learning</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/www17b/</link>
+      <link>http://ylongqi.github.io/talk/www17b/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/www17b/</guid>
+      <guid>http://ylongqi.github.io/talk/www17b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalizing Software and Web Services by Integrating Unstructured Application Usage Traces</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/www17a/</link>
+      <link>http://ylongqi.github.io/talk/www17a/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/www17a/</guid>
+      <guid>http://ylongqi.github.io/talk/www17a/</guid>
       <description></description>
     </item>
     

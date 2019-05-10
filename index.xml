@@ -2,155 +2,155 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Longqi Yang on Longqi Yang</title>
-    <link>http://www.cs.cornell.edu/~ylongqi/</link>
+    <link>http://ylongqi.github.io/</link>
     <description>Recent content in Longqi Yang on Longqi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/~ylongqi/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How Intention Informed Recommendations Modulate Choices: A Field Study of Spoken Word Content</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/www19/</link>
+      <link>http://ylongqi.github.io/publication/www19/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/www19/</guid>
+      <guid>http://ylongqi.github.io/publication/www19/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>More than Just Words: Modeling Non-textual Characteristics of Podcasts</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/wsdm19/</link>
+      <link>http://ylongqi.github.io/publication/wsdm19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/wsdm19/</guid>
+      <guid>http://ylongqi.github.io/publication/wsdm19/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Understanding and Recommending Podcast Content</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/spotify18/</link>
+      <link>http://ylongqi.github.io/talk/spotify18/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/spotify18/</guid>
+      <guid>http://ylongqi.github.io/talk/spotify18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/recsys18a/</link>
+      <link>http://ylongqi.github.io/publication/recsys18a/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/recsys18a/</guid>
+      <guid>http://ylongqi.github.io/publication/recsys18a/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Tutorial: Modularizing Deep Neural Network-Inspired Recommendation Algorithms</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/recsys18/</link>
+      <link>http://ylongqi.github.io/talk/recsys18/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/recsys18/</guid>
+      <guid>http://ylongqi.github.io/talk/recsys18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding User Interactions with Podcast Recommendations Delivered Via Voice</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/recsys18b/</link>
+      <link>http://ylongqi.github.io/publication/recsys18b/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/recsys18b/</guid>
+      <guid>http://ylongqi.github.io/publication/recsys18b/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Exploring Recommendations Under User-Controlled Data Filtering</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/recsys18c/</link>
+      <link>http://ylongqi.github.io/publication/recsys18c/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/recsys18c/</guid>
+      <guid>http://ylongqi.github.io/publication/recsys18c/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Harnessing and Customizing State-of-the-art Recommendation Solutions with OpenRec</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/strata18/</link>
+      <link>http://ylongqi.github.io/talk/strata18/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/strata18/</guid>
+      <guid>http://ylongqi.github.io/talk/strata18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing User Skills from Application Usage Traces with Hierarchical Attention Recurrent Networks</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/tist18/</link>
+      <link>http://ylongqi.github.io/publication/tist18/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/tist18/</guid>
+      <guid>http://ylongqi.github.io/publication/tist18/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Recommendations Beyond User-Item Interactions</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/yahoo18/</link>
+      <link>http://ylongqi.github.io/talk/yahoo18/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/yahoo18/</guid>
+      <guid>http://ylongqi.github.io/talk/yahoo18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/wsdm18/</link>
+      <link>http://ylongqi.github.io/talk/wsdm18/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/wsdm18/</guid>
+      <guid>http://ylongqi.github.io/talk/wsdm18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/wsdm18/</link>
+      <link>http://ylongqi.github.io/publication/wsdm18/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/wsdm18/</guid>
+      <guid>http://ylongqi.github.io/publication/wsdm18/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Immersive Recommendation Workshop: Deep User and Content Modeling for Personalization</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/nycmedialab/</link>
+      <link>http://ylongqi.github.io/talk/nycmedialab/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/nycmedialab/</guid>
+      <guid>http://ylongqi.github.io/talk/nycmedialab/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/LongqiYang/immersive-recommendation-workshop-nyc-media-lab17&#34; target=&#34;_blank&#34;&gt;Workshop slides&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Yum-me: A Personalized Nutrient-based Meal Recommender System</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/tois17/</link>
+      <link>http://ylongqi.github.io/publication/tois17/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/tois17/</guid>
+      <guid>http://ylongqi.github.io/publication/tois17/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Collaborative Metric Learning</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/talk/www17b/</link>
+      <link>http://ylongqi.github.io/talk/www17b/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/talk/www17b/</guid>
+      <guid>http://ylongqi.github.io/talk/www17b/</guid>
       <description></description>
     </item>
     

@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Longqi Yang</title>
-    <link>http://www.cs.cornell.edu/~ylongqi/publication_types/1/</link>
+    <link>http://ylongqi.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Longqi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.cs.cornell.edu/~ylongqi/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ylongqi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How Intention Informed Recommendations Modulate Choices: A Field Study of Spoken Word Content</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/www19/</link>
+      <link>http://ylongqi.github.io/publication/www19/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/www19/</guid>
+      <guid>http://ylongqi.github.io/publication/www19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More than Just Words: Modeling Non-textual Characteristics of Podcasts</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/wsdm19/</link>
+      <link>http://ylongqi.github.io/publication/wsdm19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/wsdm19/</guid>
+      <guid>http://ylongqi.github.io/publication/wsdm19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/recsys18a/</link>
+      <link>http://ylongqi.github.io/publication/recsys18a/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/recsys18a/</guid>
+      <guid>http://ylongqi.github.io/publication/recsys18a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding User Interactions with Podcast Recommendations Delivered Via Voice</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/recsys18b/</link>
+      <link>http://ylongqi.github.io/publication/recsys18b/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/recsys18b/</guid>
+      <guid>http://ylongqi.github.io/publication/recsys18b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Recommendations Under User-Controlled Data Filtering</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/recsys18c/</link>
+      <link>http://ylongqi.github.io/publication/recsys18c/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/recsys18c/</guid>
+      <guid>http://ylongqi.github.io/publication/recsys18c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/wsdm18/</link>
+      <link>http://ylongqi.github.io/publication/wsdm18/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/wsdm18/</guid>
+      <guid>http://ylongqi.github.io/publication/wsdm18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalizing Software and Web Services by Integrating Unstructured Application Usage Traces</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/www17a/</link>
+      <link>http://ylongqi.github.io/publication/www17a/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/www17a/</guid>
+      <guid>http://ylongqi.github.io/publication/www17a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Metric Learning</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/www17b/</link>
+      <link>http://ylongqi.github.io/publication/www17b/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/www17b/</guid>
+      <guid>http://ylongqi.github.io/publication/www17b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immersive Recommendation: News and Event Recommendations Using Personal Digital Traces</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/www16/</link>
+      <link>http://ylongqi.github.io/publication/www16/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/www16/</guid>
+      <guid>http://ylongqi.github.io/publication/www16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YADL: Your Activities of Daily Living</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/pervasivehealth16/</link>
+      <link>http://ylongqi.github.io/publication/pervasivehealth16/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/pervasivehealth16/</guid>
+      <guid>http://ylongqi.github.io/publication/pervasivehealth16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/cikm15/</link>
+      <link>http://ylongqi.github.io/publication/cikm15/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/cikm15/</guid>
+      <guid>http://ylongqi.github.io/publication/cikm15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring Occupancy from Opportunistically Available Sensor Data</title>
-      <link>http://www.cs.cornell.edu/~ylongqi/publication/percom14/</link>
+      <link>http://ylongqi.github.io/publication/percom14/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ylongqi/publication/percom14/</guid>
+      <guid>http://ylongqi.github.io/publication/percom14/</guid>
       <description></description>
     </item>
     

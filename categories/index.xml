@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Longqi Yang</title>
-    <link>http://www.cs.cornell.edu/~ylongqi/categories/</link>
+    <link>http://ylongqi.github.io/categories/</link>
     <description>Recent content in Categories on Longqi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     
-	<atom:link href="http://www.cs.cornell.edu/~ylongqi/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ylongqi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
