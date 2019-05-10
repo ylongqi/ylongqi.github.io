@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Longqi Yang</title>
-    <link>http://ylongqi.github.io/publication_types/3/</link>
+    <link>http://ylongqi.com/publication_types/3/</link>
     <description>Recent content in 3 on Longqi Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ylongqi.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ylongqi.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GroupLink: Group Event Recommendations Using Personal Digital Traces</title>
-      <link>http://ylongqi.github.io/publication/cscw16/</link>
+      <link>http://ylongqi.com/publication/cscw16/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.github.io/publication/cscw16/</guid>
+      <guid>http://ylongqi.com/publication/cscw16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond Classification: Latent User Interests Profiling from Visual Contents Analysis</title>
-      <link>http://ylongqi.github.io/publication/icdmw15/</link>
+      <link>http://ylongqi.com/publication/icdmw15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ylongqi.github.io/publication/icdmw15/</guid>
+      <guid>http://ylongqi.com/publication/icdmw15/</guid>
       <description></description>
     </item>
     
