@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ylongqi.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit</title>
+      <link>https://ylongqi.com/publication/kdd19/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ylongqi.com/publication/kdd19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Intention Informed Recommendations Modulate Choices: A Field Study of Spoken Word Content</title>
