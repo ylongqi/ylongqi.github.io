@@ -11,9 +11,19 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Leveraging Post-click Feedback for Content Recommendations</title>
+      <link>https://ylongqi.com/publication/recsys19/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ylongqi.com/publication/recsys19/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit</title>
       <link>https://ylongqi.com/publication/kdd19/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ylongqi.com/publication/kdd19/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
@@ -142,16 +152,6 @@
       
       <guid>https://ylongqi.com/talk/nycmedialab/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/LongqiYang/immersive-recommendation-workshop-nyc-media-lab17&#34; target=&#34;_blank&#34;&gt;Workshop slides&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Yum-me: A Personalized Nutrient-based Meal Recommender System</title>
-      <link>https://ylongqi.com/publication/tois17/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ylongqi.com/publication/tois17/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
