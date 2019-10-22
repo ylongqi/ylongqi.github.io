@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judy Wu | Longqi Yang</title>
+    <link>https://ylongqi.com/authors/judy-wu/</link>
+      <atom:link href="https://ylongqi.com/authors/judy-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Judy Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylongqi.com/img/icon-192.png</url>
+      <title>Judy Wu</title>
+      <link>https://ylongqi.com/authors/judy-wu/</link>
+    </image>
+    
+    <item>
+      <title>YADL: Your Activities of Daily Living</title>
+      <link>https://ylongqi.com/publication/pervasivehealth16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/pervasivehealth16/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

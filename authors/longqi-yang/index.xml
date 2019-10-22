@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Longqi Yang</title>
+    <link>https://ylongqi.com/authors/longqi-yang/</link>
+      <atom:link href="https://ylongqi.com/authors/longqi-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Longqi Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 26 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylongqi.com/img/icon-192.png</url>
+      <title>Longqi Yang</title>
+      <link>https://ylongqi.com/authors/longqi-yang/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging Post-click Feedback for Content Recommendations</title>
+      <link>https://ylongqi.com/publication/recsys19/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/recsys19/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit</title>
+      <link>https://ylongqi.com/publication/kdd19/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/kdd19/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Intention Informed Recommendations Modulate Choices: A Field Study of Spoken Word Content</title>
+      <link>https://ylongqi.com/publication/www19/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/www19/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More than Just Words: Modeling Non-textual Characteristics of Podcasts</title>
+      <link>https://ylongqi.com/publication/wsdm19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/wsdm19/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback</title>
+      <link>https://ylongqi.com/publication/recsys18a/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/recsys18a/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding User Interactions with Podcast Recommendations Delivered Via Voice</title>
+      <link>https://ylongqi.com/publication/recsys18b/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/recsys18b/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Recommendations Under User-Controlled Data Filtering</title>
+      <link>https://ylongqi.com/publication/recsys18c/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/recsys18c/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterizing User Skills from Application Usage Traces with Hierarchical Attention Recurrent Networks</title>
+      <link>https://ylongqi.com/publication/tist18/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/tist18/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms</title>
+      <link>https://ylongqi.com/publication/wsdm18/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/wsdm18/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yum-me: A Personalized Nutrient-based Meal Recommender System</title>
+      <link>https://ylongqi.com/publication/tois17/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/tois17/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personalizing Software and Web Services by Integrating Unstructured Application Usage Traces</title>
+      <link>https://ylongqi.com/publication/www17a/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/www17a/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Metric Learning</title>
+      <link>https://ylongqi.com/publication/www17b/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/www17b/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immersive Recommendation: News and Event Recommendations Using Personal Digital Traces</title>
+      <link>https://ylongqi.com/publication/www16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/www16/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>YADL: Your Activities of Daily Living</title>
+      <link>https://ylongqi.com/publication/pervasivehealth16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/pervasivehealth16/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GroupLink: Group Event Recommendations Using Personal Digital Traces</title>
+      <link>https://ylongqi.com/publication/cscw16/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/cscw16/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface</title>
+      <link>https://ylongqi.com/publication/cikm15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/cikm15/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond Classification: Latent User Interests Profiling from Visual Contents Analysis</title>
+      <link>https://ylongqi.com/publication/icdmw15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/icdmw15/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inferring Occupancy from Opportunistically Available Sensor Data</title>
+      <link>https://ylongqi.com/publication/percom14/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/percom14/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

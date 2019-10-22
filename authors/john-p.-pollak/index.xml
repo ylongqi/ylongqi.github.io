@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John P. Pollak | Longqi Yang</title>
+    <link>https://ylongqi.com/authors/john-p.-pollak/</link>
+      <atom:link href="https://ylongqi.com/authors/john-p.-pollak/index.xml" rel="self" type="application/rss+xml" />
+    <description>John P. Pollak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylongqi.com/img/icon-192.png</url>
+      <title>John P. Pollak</title>
+      <link>https://ylongqi.com/authors/john-p.-pollak/</link>
+    </image>
+    
+    <item>
+      <title>YADL: Your Activities of Daily Living</title>
+      <link>https://ylongqi.com/publication/pervasivehealth16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/pervasivehealth16/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface</title>
+      <link>https://ylongqi.com/publication/cikm15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/cikm15/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

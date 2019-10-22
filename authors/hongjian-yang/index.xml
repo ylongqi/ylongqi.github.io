@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongjian Yang | Longqi Yang</title>
+    <link>https://ylongqi.com/authors/hongjian-yang/</link>
+      <atom:link href="https://ylongqi.com/authors/hongjian-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongjian Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylongqi.com/img/icon-192.png</url>
+      <title>Hongjian Yang</title>
+      <link>https://ylongqi.com/authors/hongjian-yang/</link>
+    </image>
+    
+    <item>
+      <title>Yum-me: A Personalized Nutrient-based Meal Recommender System</title>
+      <link>https://ylongqi.com/publication/tois17/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/tois17/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

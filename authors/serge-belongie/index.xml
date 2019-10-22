@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serge Belongie | Longqi Yang</title>
+    <link>https://ylongqi.com/authors/serge-belongie/</link>
+      <atom:link href="https://ylongqi.com/authors/serge-belongie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serge Belongie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylongqi.com/img/icon-192.png</url>
+      <title>Serge Belongie</title>
+      <link>https://ylongqi.com/authors/serge-belongie/</link>
+    </image>
+    
+    <item>
+      <title>Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback</title>
+      <link>https://ylongqi.com/publication/recsys18a/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/recsys18a/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yum-me: A Personalized Nutrient-based Meal Recommender System</title>
+      <link>https://ylongqi.com/publication/tois17/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/tois17/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Metric Learning</title>
+      <link>https://ylongqi.com/publication/www17b/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/www17b/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface</title>
+      <link>https://ylongqi.com/publication/cikm15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ylongqi.com/publication/cikm15/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

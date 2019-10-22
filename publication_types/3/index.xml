@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on Longqi Yang</title>
+    <title>3 | Longqi Yang</title>
     <link>https://ylongqi.com/publication_types/3/</link>
-    <description>Recent content in 3 on Longqi Yang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ylongqi.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ylongqi.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylongqi.com/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://ylongqi.com/publication_types/3/</link>
+    </image>
     
     <item>
       <title>GroupLink: Group Event Recommendations Using Personal Digital Traces</title>
       <link>https://ylongqi.com/publication/cscw16/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://ylongqi.com/publication/cscw16/</guid>
-      <description></description>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
     <item>
       <title>Beyond Classification: Latent User Interests Profiling from Visual Contents Analysis</title>
       <link>https://ylongqi.com/publication/icdmw15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://ylongqi.com/publication/icdmw15/</guid>
-      <description></description>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
   </channel>
