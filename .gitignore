@@ -3,3 +3,4 @@ Gemfile*
 CONTRIBUTING*
 README*
 build_website.sh
+serve_website.sh
